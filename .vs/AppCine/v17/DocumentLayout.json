@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\formcomprarentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:formcomprarentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\entradasvendidasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:entradasvendidasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\formmostrarentradasvendidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:formmostrarentradasvendidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\formmostrarentradasvendidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:formmostrarentradasvendidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\formcomprarentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:formcomprarentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\formmostrarporgenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:formmostrarporgenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\listas\\entradasvendidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:listas\\entradasvendidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\formmostrarpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:formmostrarpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\formmostrarporgenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:formmostrarporgenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\formmostrarpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:formmostrarpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\formagregarpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:formagregarpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\formagregarpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:formagregarpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|c:\\users\\g4rnett\\source\\repos\\appcine\\listas\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E7F8D0-C8D9-4224-8ACB-FC6BBBADB874}|AppCine.csproj|solutionrelative:listas\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormComprarEntrada.cs",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormComprarEntrada.cs",
+              "RelativeDocumentMoniker": "FormComprarEntrada.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormComprarEntrada.cs",
+              "RelativeToolTip": "FormComprarEntrada.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAuwDEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T21:38:58.484Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntradasVendidasManager.cs",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\EntradasVendidasManager.cs",
+              "RelativeDocumentMoniker": "EntradasVendidasManager.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\EntradasVendidasManager.cs",
+              "RelativeToolTip": "EntradasVendidasManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:49:53.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMostrarEntradasVendidas.cs",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormMostrarEntradasVendidas.cs",
+              "RelativeDocumentMoniker": "FormMostrarEntradasVendidas.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormMostrarEntradasVendidas.cs",
+              "RelativeToolTip": "FormMostrarEntradasVendidas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:18:13.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMostrarEntradasVendidas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormMostrarEntradasVendidas.cs",
+              "RelativeDocumentMoniker": "FormMostrarEntradasVendidas.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormMostrarEntradasVendidas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormMostrarEntradasVendidas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:11:35.068Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormComprarEntrada.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormComprarEntrada.cs",
+              "RelativeDocumentMoniker": "FormComprarEntrada.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormComprarEntrada.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormComprarEntrada.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T21:37:31.954Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMostrarPorGenero.cs",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormMostrarPorGenero.cs",
+              "RelativeDocumentMoniker": "FormMostrarPorGenero.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormMostrarPorGenero.cs",
+              "RelativeToolTip": "FormMostrarPorGenero.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAowB0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:59:12.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:51:52.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntradasVendidas.cs",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\Listas\\EntradasVendidas.cs",
+              "RelativeDocumentMoniker": "Listas\\EntradasVendidas.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\Listas\\EntradasVendidas.cs",
+              "RelativeToolTip": "Listas\\EntradasVendidas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:32:43.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMostrarPeliculas.cs",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormMostrarPeliculas.cs",
+              "RelativeDocumentMoniker": "FormMostrarPeliculas.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormMostrarPeliculas.cs",
+              "RelativeToolTip": "FormMostrarPeliculas.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA4wBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:11:58.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMostrarPorGenero.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormMostrarPorGenero.cs",
+              "RelativeDocumentMoniker": "FormMostrarPorGenero.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormMostrarPorGenero.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormMostrarPorGenero.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:08:07.034Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMostrarPeliculas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormMostrarPeliculas.cs",
+              "RelativeDocumentMoniker": "FormMostrarPeliculas.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormMostrarPeliculas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormMostrarPeliculas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:07:47.666Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAgregarPelicula.cs",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormAgregarPelicula.cs",
+              "RelativeDocumentMoniker": "FormAgregarPelicula.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormAgregarPelicula.cs",
+              "RelativeToolTip": "FormAgregarPelicula.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwDMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T12:40:59.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormAgregarPelicula.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormAgregarPelicula.cs",
+              "RelativeDocumentMoniker": "FormAgregarPelicula.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\FormAgregarPelicula.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormAgregarPelicula.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T12:19:40.446Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T12:05:59.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T12:00:48.022Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Peliculas.cs",
+              "DocumentMoniker": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\Listas\\Peliculas.cs",
+              "RelativeDocumentMoniker": "Listas\\Peliculas.cs",
+              "ToolTip": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\Listas\\Peliculas.cs",
+              "RelativeToolTip": "Listas\\Peliculas.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:59:06.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

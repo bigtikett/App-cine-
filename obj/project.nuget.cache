@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZwxEfoKZDyEyF3qy/Y8T8AlK+9+TFE3oh2ZZXGh+FrR6wFamY3FBuMlIl0qnsHkRTJxRNJfOrsJGXCnqTxwREg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\G4rNeTT\\source\\repos\\AppCine\\AppCine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\G4rNeTT\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
